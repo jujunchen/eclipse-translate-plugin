@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # translate
 eclipse翻译插件，兼容版本：? ~ eclipse 2022-09
 
@@ -22,3 +23,7 @@ eclipse翻译插件，兼容版本：? ~ eclipse 2022-09
 1、选中文本，单击右键，选择Translate即可
 
 2、快捷键Ctrl+5，可自行修改
+=======
+# eclipse-translate-plugin
+eclipse 翻译插件
+>>>>>>> branch 'main' of https://github.com/jujunchen/eclipse-translate-plugin.git
